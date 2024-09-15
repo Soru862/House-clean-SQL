@@ -12,8 +12,8 @@ housing_data;
                -- 1. UniquesID               2. ParcelID             3. LandUse            4. PropertyAddress 
                -- 5. SaleDate                6. SalePrice            7. LegalReference     8. SoldAsVacant
                -- 9. OwnerName              10. OwnerAddress        11. Acreage           12. TaxDistrict
-			  -- 13. LandValue              14. BuildingValue       15. TotalValue        16. YearBuilt
-              -- 17. Bedrooms               18. FullBath            19. HalfBath          
+	       -- 13. LandValue              14. BuildingValue       15. TotalValue        16. YearBuilt
+               -- 17. Bedrooms               18. FullBath            19. HalfBath          
 			
 -- STANDARDIZING DATE FORMAT 
 
